@@ -4,26 +4,6 @@
 - 👩🏻‍💻 Im Julius
 - 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
 - 📖 I’m currently learning **Mobile Development with React Native & Data Structures and Algorithms**
-    
-<h2>Domain of interests</h2>
-    
-- 💻 Full-stack Web Develppment
-- 📱 Mobile Development
-- 👽 Cyber Security
-- 🦾 Artificial Intelligence
-  
-<h2>Languages & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,prisma,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
-</p>  
-    
-<h2></h2>
 
 <!-- Holopin Profile -->
 
@@ -33,8 +13,9 @@
 </p>
 
 <p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwangimuringi&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Julius's wakatime stats"/>
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=mwangimuringi&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="mwangimuringi" />
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwangimuringi&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2&range=last_7_days" alt="Julius's wakatime stats"/>
+  <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=mwangimuringi&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="mwangimuringi" />
+</p>
 
 <h2></h2>
 
