@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwangimuringi&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2&range=last_7_days&cache_bust=true" alt="Julius's wakatime stats"/>
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwangimuringi&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Mwangi's wakatime stats"/>
   <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=mwangimuringi&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="mwangimuringi" />
 </p>
 
