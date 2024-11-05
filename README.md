@@ -1,5 +1,5 @@
 
-<h2>About Me</h2>
+<h3>About Me</h3>
   
 - 👩🏻‍💻 Im Julius
 - 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
@@ -17,7 +17,7 @@
   <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=mwangimuringi&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="mwangimuringi" />
 </p>
 
-<h2></h2>
+<h3></h3>
 
 <!-- Activity Graph -->
 <p align="center">
