@@ -1,5 +1,5 @@
 
-<h3>About Me</h3>
+<h2>About Me</h2>
   
 - 👩🏻‍💻 Im Julius
 - 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
